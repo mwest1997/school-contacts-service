@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Oct 27 16:34:17 MDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0175-6c32-9c63-00001cfca0c0 
+on database directory memory:C:\Users\matth\Desktop\bootcamp\projects\school-contacts-service\5da2b206-7492-4d82-8149-a8f67916c5e3 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/matth/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.8+10-LTS
+user.dir=C:\Users\matth\Desktop\bootcamp\projects\school-contacts-service
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
